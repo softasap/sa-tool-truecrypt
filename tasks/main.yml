@@ -1,0 +1,3 @@
+---
+# tasks file for sa-truecrypt
+  - include: tasks_truecrypt.yml
